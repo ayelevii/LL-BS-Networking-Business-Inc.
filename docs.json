@@ -1,0 +1,11 @@
+json{
+  "name": "Short Story Brewing",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "pages": ["index"]
+      }
+    ]
+  }
+}
