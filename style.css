@@ -1,0 +1,25 @@
+css#background-color {
+  background: #0E7C7B;
+}
+
+#navbar {
+  background: #0A5F5E;
+}
+
+footer {
+  background: #0A5F5E;
+  color: #ffffff;
+}
+
+a {
+  color: #F97316;
+}
+
+h1, h2, h3 {
+  color: #F97316;
+}
+
+button, .primary-button {
+  background: #F97316 !important;
+  border-color: #F97316 !important;
+}
