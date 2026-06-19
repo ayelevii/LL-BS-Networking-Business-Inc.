@@ -1,10 +1,9 @@
-
 json{
   "name": "Short Story Brewing",
   "colors": {
-    "primary": "#1B4965",
-    "light": "#62929E",
-    "dark": "#0F2A3D"
+    "primary": "#0E7C7B",
+    "light": "#14B8A6",
+    "dark": "#0A5F5E"
   },
   "navigation": {
     "tabs": [
