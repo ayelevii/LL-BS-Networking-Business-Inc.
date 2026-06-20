@@ -1,4 +1,6 @@
 {
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
   "name": "Short Story Brewing",
   "colors": {
     "primary": "#0E7C7B",
